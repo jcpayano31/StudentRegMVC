@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "EditClasses";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model Class
+<h2>Edit Classes</h2>
+
+<form action="EditClasses/Classes" method="post">
+
+
+    Class  Id           :  @Html.TextBoxFor(model => model.ClassId)<br />
+    Class Name          :  @Html.TextBoxFor(model => model.ClassName)<br />
+    Class Date          :  @Html.TextBoxFor(model => model.ClassDate)<br />
+    Class Description   :  @Html.TextBoxFor(model => model.ClassDescription)<br />
+   
+
+    @*<input type="text" login ="Loginid"  name="Name"/>*@
+
+
+    <input type="submit" value="Update Class" />
+
+</form>
+

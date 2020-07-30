@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "DisplayStudent";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+
+<h2>Display Student</h2>
+@model  List<Student>
+
+
+<table border="1"> 
+    <tr>
+        <th>Student ID</th>
+        <th>Student Name</th>
+        <th>Student Email</th>
+        <th>Student Login</th>
+        <th>Student Password</th>
+        <th>Add</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+
+        <td>@item.StudentId</td>
+        <td>@item.StudentName</td>
+        <td>@item.StudentEmail</td>
+        <td>@item.StudentLogin</td>
+        <td>@item.StudentPassword</td>
+
+        <td>@Html.ActionLink("Add", "AddStudent")</td>
+
+        <td>@Html.ActionLink("Edit", "EditStudent", new { studentid = item.StudentId })</td>
+        @*<td>@Html.ActionLink("Del", "DelClasses", new { classid = item.ClassId })</td>*@
+        <td>
+            @using (Html.BeginForm("DelStudent", "Student", new { studentid = item.StudentId }))
+            {
+                <input type="submit" value="Delete" onclick="return confirm('Are you sure you want to delete record with StudentID=@item.StudentId')" />
+
+            }
+
+
+        </td>
+        
+    </tr>
+    }
+      @Html.ActionLink("Create New", "AddStudent")
+
+</table>
+
+

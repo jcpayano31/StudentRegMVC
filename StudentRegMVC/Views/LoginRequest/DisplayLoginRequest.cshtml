@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "DisplayLoginRequest";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+@model  List<LoginRequest>
+<h2>Display LoginRequest</h2>
+
+<table border="1">
+    <tr>
+        <th>Loginid</th>
+        <th>Name</th>
+        <th>Email Address</th>
+        <th>Login Name</th>
+        <th>New Or Reactivate</th>
+        <th>Reason For Access</th>
+        <th>Date Required By</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>@item.LoginId</td>
+            <td>@item.Name</td>
+            <td>@item.EmailAddress</td>
+            <td>@item.LoginName</td>
+            <td>@item.NewOrReactivate</td>
+            <td>@item.ReasonForAccess</td>
+            <td>@item.DateRequiredBy</td>
+            <td>@Html.ActionLink("Edit","EditLoginRequest" ,new {loginid = item.LoginId })</td>
+
+        </tr>
+    }
+    @Html.ActionLink("Create New", "AddLoginRequest")
+
+</table>
+

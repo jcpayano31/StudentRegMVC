@@ -1,0 +1,60 @@
+﻿
+@*@{
+    ViewBag.Title = "DisplayClasses";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+
+<h2>DisplayClasses</h2>*@
+@{
+    ViewBag.Title = "DisplayClasses";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@model  List<Class>
+<h2>Display Classes</h2>
+     
+<table border="1">
+    <tr>
+        <th>Class ID</th>
+        <th>Class Name</th>
+        <th>Class Date</th>        
+        <th>Class Description</th>
+        <th>Add</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+
+                  @foreach (var item in Model)
+                  {
+    <tr>
+
+        <td>@item.ClassId</td>
+        <td>@item.ClassName</td>
+        <td>@item.ClassDate</td>
+        <td>@item.ClassDescription</td>
+
+        <td>@Html.ActionLink("Add", "AddClass")</td>
+        @*<td>    @using (Html.BeginForm("EditClasses", "Classes", new { classid = item.ClassId })) {<input type="submit" value="Edit"/> } </td>*@
+        <td>@Html.ActionLink("Edit", "EditClasses", new { classid = item.ClassId })</td>
+        @*<td>@Html.ActionLink("Del", "DelClasses", new { classid = item.ClassId })</td>*@
+        <td>
+            @using (Html.BeginForm("DelClass", "Classes", new { classid = item.ClassId }))
+            {
+                <input type="submit" value="Delete" onclick="return confirm('Are you sure you want to delete record with ClassID=@item.ClassId')" />
+
+            }
+
+
+        </td>
+                            
+
+        
+
+    </tr>     
+
+
+                  }
+                          @Html.ActionLink("Create New", "AddClass")
+       
+</table>

@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "AddStudent";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+
+<h2>AddStudent</h2>
+
+
+@model StudentRegMVC.Models.Student
+
+
+<form action="AddStudent/Student" method="post">
+
+
+    Student Id          :  @Html.TextBoxFor(model => model.StudentID)<br />
+    Student Name        :  @Html.TextBoxFor(model => model.StudentName)<br />
+    Student Email       :  @Html.TextBoxFor(model => model.StudentEmail)<br />
+    Student Loging      :  @Html.TextBoxFor(model => model.StudentLogin)<br />
+    Student Password    :  @Html.TextBoxFor(model => model.StudentPassword)<br />
+
+    @*<input type="text" login ="Loginid"  name="Name"/>*@
+
+
+    <input type="submit" value="Add Student" />
+
+</form>

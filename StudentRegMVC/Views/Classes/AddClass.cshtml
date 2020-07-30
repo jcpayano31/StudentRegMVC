@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "AddClass";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h2>Add Class</h2>
+@model StudentRegMVC.Models.Classes
+
+
+<form action="AddClass/Classes" method="post">
+
+
+    Class Id           :  @Html.TextBoxFor(model => model.ClassId)<br />
+    Class Name         :  @Html.TextBoxFor(model => model.ClassName)<br />
+    Class Date         :  @Html.TextBoxFor(model => model.ClassDate)<br />
+    Class Description  :  @Html.TextBoxFor(model => model.ClassDescription)<br />
+
+
+    @*<input type="text" login ="Loginid"  name="Name"/>*@
+
+
+    <input type="submit" value="Add Class" />
+
+</form>

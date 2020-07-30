@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "SelectClasses";
+    Layout = "~/Views/Shared/_LayoutPage2.cshtml";
+}
+
+<h2>Select Classes</h2>
+
+< a href = "~/Models/ClassStudents.cs" > ~/ Models / ClassStudents.cs </ a >
+<table border="1">
+    <tr>
+        <th>Class ID</th>
+        <th>Student Id</th>
+        >
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>@item.ClassId</td>
+            <td>@item.Studentid</td>
+            
+
+            <td>@Html.ActionLink("Add", "AddClassStudent")</td>
+
+            <td>@Html.ActionLink("Edit", "EditClassStudent", new { studentid = item.StudentId })</td>
+            @*<td>@Html.ActionLink("Del", "DelClassStudent", new { classid = item.ClassId })</td>*@
+            <td>
+                @using (Html.BeginForm("DelClassStudent", "ClassStudent", new { studentid = item.StudentId }))
+                {
+                    <input type="submit" value="Delete" onclick="return confirm('Are you sure you want to delete record with StudentID=@item.StudentId')" />
+
+                }
+
+
+            </td>
+
+        </tr>
+    }
+    @Html.ActionLink("Create New", "AddClassStudent")
+
+</table>

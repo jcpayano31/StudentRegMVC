@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "EditLoginRequest";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model LoginRequest
+<h2>Edit Login Request</h2>
+
+<form action="EditLoginRequest/LoginRequest" method="post">
+
+
+    Login Id           :  @Html.TextBoxFor(model => model.LoginId)<br />
+    Student Name       :  @Html.TextBoxFor(model => model.Name)<br />
+    Email Address      :  @Html.TextBoxFor(model => model.EmailAddress)<br />
+    Login Name         :  @Html.TextBoxFor(model => model.LoginName)<br />
+    New or Reactivate  :  @Html.TextBoxFor(model => model.NewOrReactivate)<br />
+    Reason For Access  :  @Html.TextBoxFor(model => model.ReasonForAccess)<br />
+    Date Required by   :  @Html.TextBoxFor(model => model.DateRequiredBy)<br />
+
+    @*<input type="text" login ="Loginid"  name="Name"/>*@
+
+
+    <input type="submit" value="Update Login" />
+
+</form>

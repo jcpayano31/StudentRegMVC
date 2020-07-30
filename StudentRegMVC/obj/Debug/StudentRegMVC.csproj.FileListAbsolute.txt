@@ -1,0 +1,199 @@
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\ApplicationInsights.config
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\roslyn\csc.exe
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\roslyn\vbc.exe
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\roslyn\VBCSCompiler.exe
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\StudentRegMVC.dll.config
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\StudentRegMVC.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\StudentRegMVC.pdb
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.Web.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.ApplicationInsights.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\System.Web.Helpers.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\System.Web.Mvc.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\System.Web.Razor.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.Deployment.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.Razor.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.Web.xml
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.ApplicationInsights.xml
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\System.Web.Razor.xml
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.xml
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.Deployment.xml
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.Razor.xml
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\System.Web.Helpers.xml
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\bin\System.Web.Mvc.xml
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\obj\Debug\StudentRegMVC.dll
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\obj\Debug\StudentRegMVC.pdb
+C:\_CSharpCert\StudentRegMVC\StudentRegMVC\obj\Debug\StudentRegMVC.csprojResolveAssemblyReference.cache
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\ApplicationInsights.config
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\roslyn\csc.exe
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\roslyn\vbc.exe
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\StudentRegMVC.dll.config
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\StudentRegMVC.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\StudentRegMVC.pdb
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.Web.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\System.Web.Helpers.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\System.Web.Mvc.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\System.Web.Razor.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.Web.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\System.Web.Razor.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\System.Web.Helpers.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\System.Web.Mvc.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\obj\Debug\StudentRegMVC.csproj.CoreCompileInputs.cache
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\obj\Debug\StudentRegMVC.csproj.CopyComplete
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\obj\Debug\StudentRegMVC.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\obj\Debug\StudentRegMVC.pdb
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\EntityFramework.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\EntityFramework.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\ApplicationInsights.config
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\roslyn\csc.exe
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\roslyn\vbc.exe
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\StudentRegMVC.dll.config
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\StudentRegMVC.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\StudentRegMVC.pdb
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\EntityFramework.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.AI.Web.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\System.Web.Helpers.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\System.Web.Mvc.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\System.Web.Razor.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\System.Web.Webpages.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\EntityFramework.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.AI.Web.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\System.Web.Razor.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\System.Web.Webpages.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\System.Web.Helpers.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\bin\System.Web.Mvc.xml
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\obj\Debug\StudentRegMVC.csprojAssemblyReference.cache
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\obj\Debug\StudentRegMVC.csproj.CoreCompileInputs.cache
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\obj\Debug\StudentRegMVC.csproj.CopyComplete
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\obj\Debug\StudentRegMVC.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC - Copy 0ld before apd_database\StudentRegMVC\obj\Debug\StudentRegMVC.pdb
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\jcpayano\Pictures\CSPH230  ASP.NET\StudentRegMVC\StudentRegMVC\bin\EntityFramework.SqlServer.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\ApplicationInsights.config
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\roslyn\csc.exe
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\roslyn\vbc.exe
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\roslyn\VBCSCompiler.exe
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\StudentRegMVC.dll.config
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\StudentRegMVC.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\StudentRegMVC.pdb
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\EntityFramework.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\EntityFramework.SqlServer.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.Web.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.ApplicationInsights.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\System.Web.Helpers.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\System.Web.Mvc.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\System.Web.Razor.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.Deployment.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.Razor.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\EntityFramework.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\EntityFramework.SqlServer.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.Web.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.ApplicationInsights.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\System.Web.Razor.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.Deployment.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\System.Web.Webpages.Razor.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\System.Web.Helpers.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\bin\System.Web.Mvc.xml
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\obj\Debug\StudentRegMVC.csproj.CoreCompileInputs.cache
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\obj\Debug\StudentRegMVC.csproj.CopyComplete
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\obj\Debug\StudentRegMVC.dll
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\obj\Debug\StudentRegMVC.pdb
+C:\CSHP230B 2020\StudentRegMVC\StudentRegMVC\obj\Debug\StudentRegMVC.csprojAssemblyReference.cache
